@@ -1,1 +1,1 @@
-print ("Hello from the otherside!")
+print ("Hello from the other side!")
