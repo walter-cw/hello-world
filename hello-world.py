@@ -1,1 +1,1 @@
-print ("Hello Jenkins Learner!")
+print ("Congrats! From now on you are Jenkins Master!") 
